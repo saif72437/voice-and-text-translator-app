@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "726895934198",
+    "firebase_url": "https://voice-and-text-translato-a7a09-default-rtdb.firebaseio.com",
+    "project_id": "voice-and-text-translato-a7a09",
+    "storage_bucket": "voice-and-text-translato-a7a09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726895934198:android:ff23af7942cf831b1a8ad7",
+        "android_client_info": {
+          "package_name": "com.example.voice_and_text_translator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv8tEuf_Hltvsi90TF-2zWi1tWkuqzuNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
